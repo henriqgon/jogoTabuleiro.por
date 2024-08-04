@@ -8,6 +8,7 @@ O jogo consiste em uma corrida de tabuleiro de 20 casas, entre dois clássicos p
    
 **Jogar:** Ao escolher essa função, o jogador iniciará uma partida com o tabuleiro resetado.
 Dois jogadores estarão na posição 1 do tabuleiro, sem qualquer benefício ou penalidade.
+
 • Ao iniciar o jogo, os jogadores irão intercalar suas jogadas, onde em cada jogada é rolado
 um dado e o jogador percorre o número de casas referente ao número sorteado. Quando
 ele terminar de percorrer as casas, deve ser mostrada na tela a posição atual do jogador e
@@ -15,6 +16,7 @@ se aquela casa possui alguma punição ou benefício. Caso haja, essa situação
 resolvida antes de passar a jogada para o próximo jogador. Se não houver nenhuma
 situação a se resolver ou quando a situação for resolvida, a jogada passa para o próximo
 jogador. O jogo continua até que algum jogador termine o percurso.
+
 Detalhes do percurso:
 O percurso deve ter 20 casas totais. Ambos os jogadores começam na casa 1.
 O dado que sorteia os números para os jogadores percorrerem deve ter 6 faces, com a
@@ -31,4 +33,5 @@ As seguintes casas do percurso devem ter as funcionalidades descritas a seguir:
 - **Verificar Placar:** Ao final de cada jogo, um placar deve ser mostrado na tela apontando
 quantas vezes o Jogador 1 venceu e quantas vezes o Jogador 2 venceu. Essa opção
 também deve mostrar esse placar geral.
+
 **• Fechar o jogo:** Ao escolher a função jogar, o jogo deverá ser encerrado
