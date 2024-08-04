@@ -5,6 +5,7 @@ O jogo consiste em uma corrida de tabuleiro de 20 casas, entre dois clássicos p
 1. Jogar
 2. Verificar Placar
 3. Fechar o jogo
+   
 **Jogar:** Ao escolher essa função, o jogador iniciará uma partida com o tabuleiro resetado.
 Dois jogadores estarão na posição 1 do tabuleiro, sem qualquer benefício ou penalidade.
 • Ao iniciar o jogo, os jogadores irão intercalar suas jogadas, onde em cada jogada é rolado
