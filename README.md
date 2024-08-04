@@ -30,4 +30,4 @@ As seguintes casas do percurso devem ter as funcionalidades descritas a seguir:
 - **Verificar Placar:** Ao final de cada jogo, um placar deve ser mostrado na tela apontando
 quantas vezes o Jogador 1 venceu e quantas vezes o Jogador 2 venceu. Essa opção
 também deve mostrar esse placar geral.
-** Fechar o jogo:** Ao escolher a função jogar, o jogo deverá ser encerrado.
+**• Fechar o jogo:** Ao escolher a função jogar, o jogo deverá ser encerrado
